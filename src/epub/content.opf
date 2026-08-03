@@ -72,7 +72,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25439</dc:source>
 		<dc:source>https://archive.org/details/lookingbackward20000unse_l3o6</dc:source>
-		<meta property="schema:wordCount">76757</meta>
+		<meta property="schema:wordCount">76759</meta>
 		<meta property="schema:educationalLevel">55.78</meta>
 		<link href="https://en.wikipedia.org/wiki/Looking_Backward" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
