@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="content.opf">
 		<ignore code="m-056">
-			<line>69</line>
+			<line>70</line>
 			<reason>Instance of author name is a phrase and not the actual name.</reason>
 		</ignore>
 	</file>
